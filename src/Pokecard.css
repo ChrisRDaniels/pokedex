@@ -1,0 +1,28 @@
+.Pokecard {
+min-width: 20%;
+max-width: 33%;
+margin: 1rem;
+box-shadow: 6px 10px 12px -5px rgba(0,0,0.56);
+text-align: center;
+background-color: white;
+border-radius: 5px;
+}
+.Pokedex {
+    text-align: center;
+}
+
+.Pokecard-data {
+    font-size: 1rem;
+    font-family: fantasy;
+    padding: 5px;
+}
+.Pokecard-title {
+    font-size: 2.2rem;
+    font-family: monospace;
+}
+
+.Pokecard-img {
+    width: 8rem;
+    height: 8rem;
+    padding: 1rem;
+}
